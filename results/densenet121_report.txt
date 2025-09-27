@@ -1,0 +1,14 @@
+Test Loss: 0.2572
+Test Accuracy: 0.9644
+Test Precision: 0.9654
+Test Recall: 0.9635
+
+Classification Report:
+              precision    recall  f1-score   support
+       covid       1.00      0.97      0.98      3113
+      normal       0.93      0.98      0.95      2672
+   pneumonia       0.97      0.95      0.96      3181
+
+    accuracy                           0.96      8966
+   macro avg       0.96      0.97      0.96      8966
+weighted avg       0.97      0.96      0.96      8966

@@ -1,0 +1,4 @@
+244/244 ━━━━━━━━━━━━━━━━━━━━ 46s 188ms/step - accuracy: 0.9357 - loss: 0.2307 - precision: 0.9383 - recall: 0.9340
+Hybrid Model Accuracy: 0.9355
+Original DenseNet Accuracy: 0.9539
+Improved DenseNet121: 0.9644

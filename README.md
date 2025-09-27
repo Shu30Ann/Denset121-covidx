@@ -108,3 +108,18 @@ Plots and outputs are available directly inside the Jupyter notebooks.
     - Mooney, P. T. Chest X-Ray Pneumonia. https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
     - Rahman, T. COVID-19 Radiography Database. https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
     - Tahir, A. M. COVID-QU Dataset. https://www.kaggle.com/datasets/anasmohammedtahir/covidqu
+
+---
+
+## 📝 Conclusion & Learnings
+
+This project demonstrated the effectiveness of deep learning in medical image processing, specifically for chest X-ray classification.  
+Key takeaways include:
+
+- **DenseNet121** (fine-tuned) achieved the highest performance with a **test accuracy of 96.4%**, outperforming the hybrid CNN-Transformer model.  
+- **Balanced datasets** across COVID-19, Pneumonia, and Normal classes were crucial in achieving fair and robust results.  
+- **Explainability techniques (Grad-CAM, Integrated Gradients)** confirmed that the models correctly focused on lung regions, supporting the reliability of predictions.  
+- Learned the importance of **proper preprocessing, model selection, and training strategies** in improving diagnostic performance.  
+- Recognized limitations such as reliance on Kaggle datasets and the need for **real-world clinical validation** before practical deployment.  
+
+This internship provided valuable hands-on experience in combining **computer vision, deep learning, and explainable AI** for healthcare applications.
