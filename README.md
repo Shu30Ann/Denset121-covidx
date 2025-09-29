@@ -129,7 +129,7 @@ This internship provided valuable hands-on experience in combining **computer vi
 ## 🙏 Acknowledgments
 
 This project was carried out as part of our **Summer Internship 2025** by  
-**Shu Ann Moo** and **Lim Chai Shuen**,  
+**Moo Shu Ann** and **Lim Chai Shuen**,  
 under the supervision of **Dr. Tissa Chandesa**.  
 
 We are grateful for the guidance and feedback provided throughout the project.
