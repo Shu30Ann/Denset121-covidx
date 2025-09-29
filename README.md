@@ -123,3 +123,13 @@ Key takeaways include:
 - Recognized limitations such as reliance on Kaggle datasets and the need for **real-world clinical validation** before practical deployment.  
 
 This internship provided valuable hands-on experience in combining **computer vision, deep learning, and explainable AI** for healthcare applications.
+
+---
+
+## 🙏 Acknowledgments
+
+This project was carried out as part of our **Summer Internship 2025** by  
+**Shu Ann Moo** and **Lim Chai Shuen**,  
+under the supervision of **Dr. Tissa**.  
+
+We are grateful for the guidance and feedback provided throughout the project.
